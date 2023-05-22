@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"The pursuit of youthful, radiant skin has been a constant desire for humans throughout history.","photo2":"https://iili.io/Hgv0bdN.jpg"},
+  {"desc3":"In recent years, a unique skincare trend has emerged, capturing the attention of beauty enthusiasts worldwide—the Skibidi Skin phenomenon. ","photo3":"https://iili.io/Hgv0Z1R.jpg"},
+  {"desc4":"This paper aims to delve into the concept of Skibidi Skin, exploring its origins, benefits, and the science behind its effectiveness.","photo4":"https://iili.io/Hgv0Qqv.jpg"},
+  {"desc5":"We will also discuss the skincare routine associated with achieving Skibidi Skin and examine potential considerations for those interested in adopting this trend.","photo5":"https://iili.io/Hgv0tgp.jpg"},
+  {"descd":"By the end of this article, readers will gain a comprehensive understanding of Skibidi Skin and its potential impact on the world of skincare.","photod":"https://iili.io/Hgv0m7I.webp"}
    ]
  
 }
